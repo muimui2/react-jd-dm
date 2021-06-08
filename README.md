@@ -1,3 +1,6 @@
+效果图
+
+![view](https://github.com/muimui2/react-jd-dm/tree/main/src/static/images/view.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
