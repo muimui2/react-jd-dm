@@ -1,0 +1,37 @@
+{
+  "id": "2595905",
+  "name": "react",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10937888",
+      "name": "cart",
+      "font_class": "cart",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "14471551",
+      "name": "user_ selector _post",
+      "font_class": "user_selector_post",
+      "unicode": "e774",
+      "unicode_decimal": 59252
+    },
+    {
+      "icon_id": "19229539",
+      "name": "home",
+      "font_class": "zhuye-copy",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "19962904",
+      "name": "分类",
+      "font_class": "leimupinleifenleileibie2",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
